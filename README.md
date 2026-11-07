@@ -2,7 +2,7 @@
 <html lang="uz"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="dark">
-<title>Junior — Telegram bot dasturchi</title>
+
 </head><body><div class="wrap">
 
 <nav><b>Junior</b><div><a href="#loyihalar">Loyihalar</a><a href="#aloqa">Aloqa</a></div></nav>
